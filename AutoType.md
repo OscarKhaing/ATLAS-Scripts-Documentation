@@ -36,7 +36,7 @@ Where arguments encased in `()` or `[]` are optional. In this case, minimum argu
 
 ### `[-s]`
 Save file is automatically created without specifying -s in current working directory, but -s can be used to specify name with same behavior (needs explicit file extension as it doesn’t automatically append `.bgf`)
-
+---
 # Examples
 Minimal arguments
 ```
