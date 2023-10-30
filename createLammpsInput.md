@@ -103,7 +103,7 @@ Where arguments encased in `()` or `[]` are optional. In this case, minimum argu
                                         as opposed to point dipoles in the other options.\
                 "rigid: 'atom selection(s)'" - Treat the specified atoms (and their associated molecules) as rigid bodies during dynamics\
                 "include_file:" - Include a file with LAMMPS code after the data_read line. Use for further customization\
-
+---
 # Examples
 Minimal arguments
 ```
