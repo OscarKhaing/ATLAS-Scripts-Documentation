@@ -10,6 +10,7 @@ Below is general format:
 ```
 */
 Summary of General Encounters:
+
 Running these scripts without any argument will automatically prompt usage guide, so it is very crucial to look at them first before actually using the script
 
 When finding specific files, sometimes names are not exact, so it may be more helpful to navigate through layered folders with `ls` and predict where the files are located
