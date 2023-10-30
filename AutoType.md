@@ -1,14 +1,7 @@
-/* Developers' note for Work-In-Progress
- * Below is general format:
- *     Name of command
- *     High-level Descriptions
- *     Behaviors of [OPTIONS]
- *     Examples of Usage
- */
+
 # `AutoType.pl`
 ### High-level Descriptions:
 
-High-level Descriptions:
 
 > `AutoType.pl` types atoms in the input data file and creates a `.bgf` data file in the **working directory**.
 
