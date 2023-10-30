@@ -25,13 +25,13 @@ Where arguments encased in `()` or `[]` are optional. In this case, minimum argu
 # Behaviors
 ### `-b`
 -b structureFile:
-                Valid entries are
-                BGF|MSI|MOL2
-                PDB|PQR|XYZ - connections will be generated automatically (if no CONECT tables).
-                        NOTE: Forcefield types are assumed to be the same as the atom names
-                CHARMM_PSF - Also need to specify CHARMM CRD file (in quotes) or have xxx.crd file in same folder
-                AMBER_PRMTOP - Also need to specify AMBER CRD|RST file (in quotes) or have xxx.crd|xxx.rst7 file in same folder
-                GROMACS_GRO - Also need to specify TOP|XPLOR file (in quotes) xxx.top|xxx.xplor file in the same folder
+                Valid entries are \
+                BGF|MSI|MOL2\
+                PDB|PQR|XYZ - connections will be generated automatically (if no CONECT tables).\
+                        NOTE: Forcefield types are assumed to be the same as the atom names\
+                CHARMM_PSF - Also need to specify CHARMM CRD file (in quotes) or have xxx.crd file in same folder\
+                AMBER_PRMTOP - Also need to specify AMBER CRD|RST file (in quotes) or have xxx.crd|xxx.rst7 file in same folder\
+                GROMACS_GRO - Also need to specify TOP|XPLOR file (in quotes) xxx.top|xxx.xplor file in the same folder\
 ### `-f`
 -f "forcefield1 forcefield2...":
                 1 or more Cerius2|Polygraf|ITP|CHARMM_PRM|GROMACS_TOP formatted forcefields
