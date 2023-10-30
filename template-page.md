@@ -25,7 +25,7 @@ Where arguments encased in `()` or `[]` are optional. In this case, minimum argu
 
 # Behaviors
 ### `-x`
-
+---
 # Examples
 Minimal arguments
 ```
