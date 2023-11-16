@@ -8,7 +8,9 @@
 
 Usage (Syntax):
 ```
-./scriptname -x option x
+
+
+
 ```
 * **`-x`** put short description
 
