@@ -1,0 +1,9 @@
+script running started from add.pl
+script only ran on .pl filetype
+
+List of pl scripts that didn't work properly 
+
+addIons.pl
+add_om_wat_particle.pl
+amberRes2Vac.pl (the pl script "Can't find package")
+amorphousBuilder.pl
