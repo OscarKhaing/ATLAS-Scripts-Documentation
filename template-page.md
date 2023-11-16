@@ -1,10 +1,4 @@
-/* 
- * Below is general format:
- *     Name of command
- *     High-level Descriptions
- *     Behaviors of [OPTIONS]
- *     Examples of Usage
- */
+
 # `____.pl`
 ### High-level Descriptions:
 
